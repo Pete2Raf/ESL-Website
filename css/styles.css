@@ -69,7 +69,6 @@ hr {
 }
 
 .intro {
-  position: absolute;
   width: 50%;
   margin: auto;
 }
@@ -81,7 +80,6 @@ hr {
 }
 
 .profile-pic {
-  position: relative;
   height: 200px;
   width: 100px;
   border-radius: 50%;
